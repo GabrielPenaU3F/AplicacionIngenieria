@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AplicacionIngenieria</string>
+
+    //MainActivity
+    <string name="elegirIngenieria">Elija su ingeniería!</string>
+    <string name="computacion">Computación</string>
+    <string name="title_activity_computacion">ComputacionActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    </resources>

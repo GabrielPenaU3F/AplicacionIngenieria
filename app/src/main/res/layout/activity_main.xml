@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LytPrincipal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView android:id="@+id/lblElegirIngenieria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/elegirIngenieria"/>
+
+
+    <Button android:id="@+id/btnComputacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblElegirIngenieria"
+        android:layout_centerHorizontal="true"
+        android:text="@string/computacion"/>
+
+</RelativeLayout>
