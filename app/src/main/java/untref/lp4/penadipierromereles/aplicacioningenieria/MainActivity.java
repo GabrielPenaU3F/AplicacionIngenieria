@@ -16,7 +16,6 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Comentario 8/5/2015
 
         /*Conecto el comportamiento de la variable con el boton de la interfaz*/
         btnComputacion = (Button)findViewById(R.id.btnComputacion);
